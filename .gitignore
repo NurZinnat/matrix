@@ -1,0 +1,5 @@
+*.o
+main
+a.out
+build/
+*.tmp
