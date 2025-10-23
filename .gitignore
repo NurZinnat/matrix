@@ -4,3 +4,4 @@ a.out
 build/
 *.tmp
 *.out
+*.out *.out
